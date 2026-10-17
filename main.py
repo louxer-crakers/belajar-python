@@ -8,3 +8,8 @@
 
 # dia itu outputnya wajib memanggil variabel kelas, nama, uang
 
+git init
+
+git add .
+
+git commit -m "keterangan perubahan"
